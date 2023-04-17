@@ -1,1 +1,1 @@
-hello world task
+readme file for shell redirections
